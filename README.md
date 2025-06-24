@@ -30,7 +30,7 @@
 - [**Sistema web para gestão de produtos com autenticação de usuários**](https://github.com/Antonio-Carlos-Alves-de-Mello/sistema)  
   - Sistema com Python, Flask e MySQL.
 - [**Aplicativo de estoque para TI**](https://github.com/Antonio-Carlos-Alves-de-Mello/cti)
-    - Pequeno sistema de controle de estque em Python, Flask e Mysql .
+    - Pequeno sistema de controle de estoque em Python, Flask e Mysql .
 - [**Projeto com HTMX**](https://github.com/Antonio-Carlos-Alves-de-Mello/seu-projeto-htmx)  
   - Interface dinâmica com HTML5, CSS3 e HTMX.  
 
