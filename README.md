@@ -27,7 +27,7 @@
 ## 🔥 Projetos Destacados  
 - [**Aplicativo com Kivy**](https://github.com/Antonio-Carlos-Alves-de-Mello/seu-projeto-kivy)  
   - Aplicativo desktop/mobile desenvolvido com Python e Kivy.  
-- [**API com Flask**](https://github.com/Antonio-Carlos-Alves-de-Mello/seu-projeto-flask)  
+- [**Sistema web para gestão de produtos com autenticação de usuários**](https://github.com/Antonio-Carlos-Alves-de-Mello/sistema)  
   - API RESTful com Python, Flask e MySQL.  
 - [**Projeto com HTMX**](https://github.com/Antonio-Carlos-Alves-de-Mello/seu-projeto-htmx)  
   - Interface dinâmica com HTML5, CSS3 e HTMX.  
