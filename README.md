@@ -1,42 +1,33 @@
-# Olá, eu sou Antonio Carlos Alves de Mello! 👋  
+# Olá, eu sou Antonio Carlos Alves de Mello
 
-💻 **Desenvolvedor Full Stack | Python | Front-End**  
-🎓 **Formado em Análise e Desenvolvimento de Sistemas**  
+**Desenvolvedor Full Stack · Python e Flask · PHP e Laravel · Suporte de TI e automação**
 
-## 🛠️ Tecnologias & Ferramentas  
+Sou formado em Análise e Desenvolvimento de Sistemas. Desenvolvo aplicações web para organizar informações, apoiar rotinas de suporte e resolver problemas do dia a dia com código.
 
-### Front-End  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTMX](https://img.shields.io/badge/HTMX-1E4F6F?style=for-the-badge&logo=htmx&logoColor=white)
+## Projetos
 
-### Back-End & Mobile  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Kivy](https://img.shields.io/badge/Kivy-1F72B6?style=for-the-badge&logo=kivy&logoColor=white)
+| Projeto | Objetivo | Tecnologias |
+| --- | --- | --- |
+| [Sistema de gerenciamento](https://github.com/Antonio-Carlos-Alves-de-Mello/sistema) | Gestão de produtos, estoque, fornecedores, unidades, contatos e requisições, com cadastro e login de usuários. | Python, Flask, SQLAlchemy, HTML e CSS |
+| [CTI — Controle de TI](https://github.com/Antonio-Carlos-Alves-de-Mello/cti) | Consulta de lojas, endereços IP e contatos, além de rotinas de estoque e requisição de materiais. | Python, Flask e MySQL |
+| **Sisjob — código privado** | Plataforma de currículos profissionais, vagas e administração de empresas. | PHP e Laravel |
 
-### Banco de Dados  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+Os READMEs dos projetos públicos descrevem a estrutura, a preparação do ambiente e as limitações conhecidas.
 
-### Ferramentas  
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## Tecnologias e ferramentas
 
-## 🔥 Projetos Destacados  
-- [**Aplicativo com Kivy**](https://github.com/Antonio-Carlos-Alves-de-Mello/seu-projeto-kivy)  
-  - Aplicativo desktop/mobile desenvolvido com Python e Kivy.  
-- [**Sistema web para gestão de produtos com autenticação de usuários**](https://github.com/Antonio-Carlos-Alves-de-Mello/sistema)  
-  - Sistema com Python, Flask e MySQL.
-- [**Aplicativo de estoque para TI**](https://github.com/Antonio-Carlos-Alves-de-Mello/cti)
-    - Pequeno sistema de controle de estoque em Python, Flask e Mysql .
-- [**Projeto com HTMX**](https://github.com/Antonio-Carlos-Alves-de-Mello/seu-projeto-htmx)  
-  - Interface dinâmica com HTML5, CSS3 e HTMX.  
+- **Back-end:** Python, Flask, PHP e Laravel.
+- **Front-end:** HTML, CSS, JavaScript e HTMX.
+- **Banco de dados:** SQL e MySQL.
+- **Outras ferramentas:** Git, GitHub, Visual Studio Code, Kivy e AWS.
 
-## 📊 Estatísticas do GitHub  
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=Antonio-Carlos-Alves-de-Mello&show_icons=true&theme=radical)  
+## Estudos e experimentos
 
-## 📫 Vamos conversar?  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-carlos-alves-de-mello/)  
-✉️ **E-mail**: antonio.mello.72@gmail.com  
+- [Inteligência Artificial](https://github.com/Antonio-Carlos-Alves-de-Mello/Inteligencia_Artificial): proposta de integração com ferramentas de IA em Python.
+- [HTML, CSS e JavaScript](https://github.com/Antonio-Carlos-Alves-de-Mello/HTML-CSS-JAVASCRIPT): exemplos de páginas e formulários.
+- [Git e GitHub — Alura](https://github.com/Antonio-Carlos-Alves-de-Mello/Aula-Git-GitHub-Alura): exercícios de versionamento.
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/antonio-carlos-alves-de-mello/)
+- [antonio.mello.72@gmail.com](mailto:antonio.mello.72@gmail.com)
